@@ -1,0 +1,13 @@
+{
+  "core": "WordPress/WordPress#master",
+  "phpVersion": "8.0",
+  "plugins": [
+  ],
+  "themes": [
+    "./frontend"
+  ],
+  "config": {
+    "WP_DEBUG": true,
+    "SCRIPT_DEBUG": true
+  }
+}
